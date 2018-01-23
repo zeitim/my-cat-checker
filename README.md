@@ -29,7 +29,7 @@ In addition two separate TopicARNs should be created for the events:
 * A warning needs to be sent
 * A back to normal notification need to be sent.
 
-Great, your all set.
+Great, you're all set.
 
 ## Starting The Program
 
