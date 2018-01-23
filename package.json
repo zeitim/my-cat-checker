@@ -1,0 +1,15 @@
+{
+  "name": "cat-checker",
+  "version": "1.0.0",
+  "description": "Cat checker for a hungry cat",
+  "main": "checker.js",
+  "scripts": {
+    "start": "node checker.js"
+  },
+  "author": "Dolev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "node-schedule": "^1.3.0"
+  }
+}
